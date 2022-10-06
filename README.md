@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarkHenderson02 known as Justine Sun
 - 👀 I’m interested in UI/UX Design and Visual Programming
 - 🌱 I’m currently learning HTML & VB
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Visual Design
+- 📫 How to reach me you can Follow me on Instagram @hasacitto_kumaro or send me email justenrique02@gmail.com
 
 <!---
 MarkHenderson02/MarkHenderson02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
