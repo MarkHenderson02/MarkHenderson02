@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX Design and Visual Programming
 - 🌱 I’m currently learning HTML, VB, Figma and Others
 - 💞️ I’m looking to collaborate on Visual Design
-- 📫 How to reach me you can Follow me on Instagram @hasacitto_kumaro or send me email justsun0211@gmail.com
+- 📫 How to reach me you can send me email justsun0211@gmail.com
 - 🧺 You can reach me on instagram too @dopiomind
 
 <!---
